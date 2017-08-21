@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="79c2022bf778d477c87a59371ae8985f9005b0ea">
+        <dex dex="/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_80fd1435c884616a9223e7fdcf45c76fe90ed580/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/iroztropinski/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_f9aef5e1130fe7282c4921a9a9a856c7dc7af32d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/iroztropinski/.android/build-cache/3f2385fcbe2c120d20d8ee021079a945d4ae8d5d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ae0a8f1046c1141f02780cb29049406e893fc1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/iroztropinski/.android/build-cache/c8820574e5ca119e5e9c11edc0d07014e3ec0a66/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f8f445818bb0a2f30834f80c17176887c99c2e1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/iroztropinski/.android/build-cache/6699a3ec59331aa4535266e5ddee5fe67f272453/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_efc159ab97a7d698702f7390eb1c134416475d8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/iroztropinski/.android/build-cache/dffa18a0250d3f8e6765c511690c8cd4f1e851bc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="58817dc081759c1dfdfde2eb9aada8bdd3c6463c">
+        <dex dex="/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_322b020b7a130c6ce977c59bf4edac649cd6ad6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/iroztropinski/.android/build-cache/9da5d8d547a437ba660c2903d85ec36b9d8f44bc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f84b4831970073834a447f6026142ea90d25864a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/iroztropinski/.android/build-cache/c2401c5580086a89cadf0d9ebbc91695d114d6eb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4621a153b946f2d728672533dd1a84a1b42526e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_180940c2f007e691254bf92cb8dbb93113f5ec6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/iroztropinski/.android/build-cache/6c630bcdd2bbe82323768de71ad074d0116cd4ca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8ea1db9ff1ca03feae2a47ef288295643e7e7a9d/classes.dex" />
+    </item>
+
+</items>

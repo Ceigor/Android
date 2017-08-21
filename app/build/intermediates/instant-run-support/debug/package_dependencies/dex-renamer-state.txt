@@ -1,0 +1,25 @@
+#Thu Aug 17 14:41:09 CEST 2017
+renamed.7=classes.dex
+renamed.6=classes5.dex
+renamed.5=classes4.dex
+renamed.4=classes8.dex
+renamed.3=classes3.dex
+renamed.2=classes6.dex
+renamed.1=classes7.dex
+renamed.0=classes2.dex
+base.7=/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ae0a8f1046c1141f02780cb29049406e893fc1a
+base.6=/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f8f445818bb0a2f30834f80c17176887c99c2e1f
+base.5=/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_efc159ab97a7d698702f7390eb1c134416475d8e
+base.4=/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4621a153b946f2d728672533dd1a84a1b42526e1
+base.3=/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f84b4831970073834a447f6026142ea90d25864a
+base.2=/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_322b020b7a130c6ce977c59bf4edac649cd6ad6f
+base.1=/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_f9aef5e1130fe7282c4921a9a9a856c7dc7af32d
+base.0=/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8ea1db9ff1ca03feae2a47ef288295643e7e7a9d
+file.7=/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ae0a8f1046c1141f02780cb29049406e893fc1a/classes.dex
+file.6=/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f8f445818bb0a2f30834f80c17176887c99c2e1f/classes.dex
+file.5=/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_efc159ab97a7d698702f7390eb1c134416475d8e/classes.dex
+file.4=/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4621a153b946f2d728672533dd1a84a1b42526e1/classes.dex
+file.3=/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f84b4831970073834a447f6026142ea90d25864a/classes.dex
+file.2=/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_322b020b7a130c6ce977c59bf4edac649cd6ad6f/classes.dex
+file.1=/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_f9aef5e1130fe7282c4921a9a9a856c7dc7af32d/classes.dex
+file.0=/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8ea1db9ff1ca03feae2a47ef288295643e7e7a9d/classes.dex

@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Thu Aug 17 14:41:10 CEST 2017
+2.base=/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/res/resources-debug.ap_
+5.file=/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_80fd1435c884616a9223e7fdcf45c76fe90ed580/classes.dex
+5.set=DEX
+3.base=/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/res/resources-debug.ap_
+6.file=/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+2.set=ANDROID_RESOURCE
+4.base=/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_180940c2f007e691254bf92cb8dbb93113f5ec6e
+7.file=/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_ranging.xml
+7.set=ANDROID_RESOURCE
+count=8
+0.file=/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar/model-distance-calculations.json
+5.base=/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_80fd1435c884616a9223e7fdcf45c76fe90ed580
+4.set=DEX
+6.base=/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/res/resources-debug.ap_
+1.file=/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+1.set=ANDROID_RESOURCE
+7.base=/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/res/resources-debug.ap_
+2.file=/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_monitoring.xml
+6.set=ANDROID_RESOURCE
+0.base=/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar
+3.file=/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/res/resources-debug.ap_
+4.file=/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_180940c2f007e691254bf92cb8dbb93113f5ec6e/classes.dex
+0.set=JAVA_RESOURCE

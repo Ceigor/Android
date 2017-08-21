@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/res/merged/debug/layout/activity_monitoring.xml",
+        "source": "/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/src/main/res/layout/activity_monitoring.xml"
+    },
+    {
+        "merged": "/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/res/merged/debug/layout/activity_ranging.xml",
+        "source": "/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/src/main/res/layout/activity_ranging.xml"
+    }
+]

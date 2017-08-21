@@ -1,0 +1,7 @@
+#Thu Aug 17 14:41:10 CEST 2017
+base.0=/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_180940c2f007e691254bf92cb8dbb93113f5ec6e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_80fd1435c884616a9223e7fdcf45c76fe90ed580/classes.dex
+base.1=/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_80fd1435c884616a9223e7fdcf45c76fe90ed580
+file.0=/home/iroztropinski/AndroidStudioProjects/android-beacon-library-reference-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_180940c2f007e691254bf92cb8dbb93113f5ec6e/classes.dex
